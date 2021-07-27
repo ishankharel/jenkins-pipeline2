@@ -7,7 +7,7 @@ $ sudo apt install openjdk-8-jdk
 OR
 $ sudo apt install openjdk-11-jdk
 
-## Install maven  ##
+### Install maven  ###
 
 
 Very good artical which help me to install java and maven on ubunut 16.04 is listed here
