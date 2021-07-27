@@ -31,7 +31,7 @@ pipeline {
             steps {
                 script {
                                                                 
-                    sh "cd $workspace"; "sh echo $workspace"; sh "cp -rp $workspace/jenkins-pipeline2/* $workspace";
+                    sh "cd $workspace"; sh "cp -rp $workspace/jenkins-pipeline2/* $workspace";
                     sh "ls -lhrt ";
                     sh "mvn -version  ";
                                                                                 sh "mvn clean install"
