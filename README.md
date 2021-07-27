@@ -1,4 +1,4 @@
-# jenkins-pipeline2
+# jenkins-pipeline2 Job
 
 ## Install java on ubuntu 16.04  & 18.04
 
