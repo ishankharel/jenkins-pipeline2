@@ -1,5 +1,6 @@
 # jenkins-pipeline2 JOB
 
+
 ## Install java on ubuntu 16.04  & 18.04
 
 
@@ -10,7 +11,7 @@ $ sudo apt install openjdk-11-jdk
 ### Install maven  ###
 
 
-Very good artical which help me to install java and maven on ubunut 16.04 is listed here
+Excellent article which help me to install java and maven on ubunut 16.04 is listed here
 ```
  cd /opt/
  wget http://www-eu.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz
